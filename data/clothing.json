@@ -4689,7 +4689,7 @@
   {
     "slug": "Geek_Goggels",
     "name": "Vision Glasses",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "eyewear",
     "weight_kg": "0.10 kg",
@@ -5274,7 +5274,7 @@
   {
     "slug": "Halloween_Mask_Greek",
     "name": "Halloween Mask",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "mask",
     "weight_kg": "0.30 kg",
@@ -5439,7 +5439,7 @@
   {
     "slug": "Halloween_Mask_Knife",
     "name": "Halloween Mask",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "headwear",
     "weight_kg": "0.30 kg",
@@ -10720,7 +10720,7 @@
   {
     "slug": "Kilt_Sock_01",
     "name": "Socks",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "socks",
     "weight_kg": "0.15 kg",
@@ -11963,7 +11963,7 @@
   {
     "slug": "Military_Goggles_01",
     "name": "Military Goggles",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "eyewear",
     "weight_kg": "0.20 kg",
@@ -17830,7 +17830,7 @@
   {
     "slug": "Sock_01",
     "name": "Socks",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "socks",
     "weight_kg": "0.15 kg",
@@ -22798,7 +22798,7 @@
   {
     "slug": "WW2_German_Helmet_01",
     "name": "WW2 German Helmet",
-    "description": "© 2026 SCUM Database. All rights reserved. About · Important News · Contact · Privacy",
+    "description": "",
     "category": "armor",
     "subcategory": "headwear",
     "weight_kg": "1.20 kg",
