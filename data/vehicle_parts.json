@@ -1,0 +1,5008 @@
+[
+  {
+    "slug": "Bicycle_Wheel_54_622",
+    "name": "Wheel 54 622",
+    "part_type": "Wheel",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "City BikeCityBike",
+        "slug": "CityBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Bicycle_Wheel_54_622_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Bicycle_Wheel_54_622_Item.webp",
+        "alt": "Wheel 54 622"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Bikes/Bicycle_01/Icons/ICO_Bicycle_01_A.webp",
+        "alt": "City Bike"
+      }
+    ]
+  },
+  {
+    "slug": "Bicycle_Wheel_60_622",
+    "name": "Wheel 60 622",
+    "part_type": "Wheel",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Mountain BikeMountainBike",
+        "slug": "MountainBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Bicycle_Wheel_60_622_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Bicycle_Wheel_60_622_Item.webp",
+        "alt": "Wheel 60 622"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Bicycle_02_A.webp",
+        "alt": "Mountain Bike"
+      }
+    ]
+  },
+  {
+    "slug": "Big_Vehicle_StorageRack_ES",
+    "name": "Big Vehicle Storage Rack",
+    "part_type": "Storage",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "512 slots",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Big RaftBigRaft",
+        "slug": "BigRaft"
+      },
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      },
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      },
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/Storage/ICO_Big_Vehicle_StorageRack.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/Storage/ICO_Big_Vehicle_StorageRack.webp",
+        "alt": "Big Vehicle Storage Rack"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_ImproRaftBig.webp",
+        "alt": "Big Raft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "Car_Radio",
+    "name": "Car_Radio",
+    "part_type": "Other",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      },
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      },
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      },
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Car_Radio.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Car_Radio.webp",
+        "alt": "Car_Radio"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Brakelight",
+    "name": "Cruiser_Brakelight",
+    "part_type": "Light",
+    "weight_kg": "0.75 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Brakelight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Brakelight_Item.webp",
+        "alt": "Cruiser_Brakelight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Fender_Front",
+    "name": "Cruiser_Fender_Front",
+    "part_type": "Body Part",
+    "weight_kg": "0.70 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Fender_Front_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Fender_Front_Item.webp",
+        "alt": "Cruiser_Fender_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Fender_Rear",
+    "name": "Cruiser_Fender_Rear",
+    "part_type": "Body Part",
+    "weight_kg": "0.70 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Fender_Rear_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Fender_Rear_Item.webp",
+        "alt": "Cruiser_Fender_Rear"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Headlight",
+    "name": "Cruiser_Headlight",
+    "part_type": "Light",
+    "weight_kg": "3.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Headlight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Headlight_Item.webp",
+        "alt": "Cruiser_Headlight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Seat_Front",
+    "name": "Cruiser_Seat_Front",
+    "part_type": "Seat",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Seat_Front_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Seat_Front_Item.webp",
+        "alt": "Cruiser_Seat_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Seat_Rear",
+    "name": "Cruiser_Seat_Rear",
+    "part_type": "Seat",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Seat_Rear_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Seat_Rear_Item.webp",
+        "alt": "Cruiser_Seat_Rear"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Wheel_155_66_R17_ES",
+    "name": "Cruiser_Wheel_155_66_R17_ES",
+    "part_type": "Wheel",
+    "weight_kg": "6.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Wheel_Front_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Wheel_Front_Item.webp",
+        "alt": "Cruiser_Wheel_155_66_R17_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Wheel_188_53_R17_ES",
+    "name": "Cruiser_Wheel_188_53_R17_ES",
+    "part_type": "Wheel",
+    "weight_kg": "6.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Wheel_Rear_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Wheel_Rear_Item.webp",
+        "alt": "Cruiser_Wheel_188_53_R17_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Cruiser_Wind_Deflector",
+    "name": "Cruiser_Wind_Deflector",
+    "part_type": "Other",
+    "weight_kg": "4.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Wind_Deflector_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Cruiser_Wind_Deflector_Item.webp",
+        "alt": "Cruiser_Wind_Deflector"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Body",
+    "name": "Dirtbike_Body",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Body_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Body_Item.webp",
+        "alt": "Dirtbike_Body"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Body_Hellrider",
+    "name": "Dirtbike_Body_Hellrider",
+    "part_type": "Body Part",
+    "weight_kg": "12.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Body_Hellrider_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Body_Hellrider_Item.webp",
+        "alt": "Dirtbike_Body_Hellrider"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Brakelight",
+    "name": "Dirtbike_Brakelight",
+    "part_type": "Light",
+    "weight_kg": "0.20 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Brakelight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Brakelight_Item.webp",
+        "alt": "Dirtbike_Brakelight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Fender",
+    "name": "Dirtbike_Fender",
+    "part_type": "Body Part",
+    "weight_kg": "0.40 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Fender_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Fender_Item.webp",
+        "alt": "Dirtbike_Fender"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Front_Shield",
+    "name": "Dirtbike_Front_Shield",
+    "part_type": "Other",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Front_Shield_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Front_Shield_Item.webp",
+        "alt": "Dirtbike_Front_Shield"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Front_Wheel_Cover",
+    "name": "Dirtbike_Front_Wheel_Cover",
+    "part_type": "Wheel",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Front_Wheel_Cover_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_DirtBike_Front_Wheel_Cover_Item.webp",
+        "alt": "Dirtbike_Front_Wheel_Cover"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Headlight",
+    "name": "Dirtbike_Headlight",
+    "part_type": "Light",
+    "weight_kg": "2.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Headlight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Headlight_Item.webp",
+        "alt": "Dirtbike_Headlight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Hellrider_Skull",
+    "name": "Dirtbike_Hellrider_Skull",
+    "part_type": "Other",
+    "weight_kg": "3.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Hellrider_Skull_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Dirtbike_Hellrider_Skull_Item.webp",
+        "alt": "Dirtbike_Hellrider_Skull"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Wheel_110_80_R19",
+    "name": "Dirtbike_Wheel_110_80_R19",
+    "part_type": "Wheel",
+    "weight_kg": "3.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_BP_Dirtbike_Wheel_110_80_R19.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_BP_Dirtbike_Wheel_110_80_R19.webp",
+        "alt": "Dirtbike_Wheel_110_80_R19"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Dirtbike_Wheel_90_90_R21",
+    "name": "Dirtbike_Wheel_90_90_R21",
+    "part_type": "Wheel",
+    "weight_kg": "3.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_BP_Dirtbike_Wheel_90_90_R21.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_BP_Dirtbike_Wheel_90_90_R21.webp",
+        "alt": "Dirtbike_Wheel_90_90_R21"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      }
+    ]
+  },
+  {
+    "slug": "Improvised_Motorcycle_Wheel_ES",
+    "name": "Improvised_Motorcycle_Wheel_ES",
+    "part_type": "Wheel",
+    "weight_kg": "3.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      },
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      },
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Improvised_Wheel_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Improvised_Wheel_Item.webp",
+        "alt": "Improvised_Motorcycle_Wheel_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_ArmorHeavy_Left_ES",
+    "name": "Laika Body Armor Heavy Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorHeavy_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorHeavy_Left.webp",
+        "alt": "Laika Body Armor Heavy Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_ArmorHeavy_Right_ES",
+    "name": "Laika Body Armor Heavy Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorHeavy_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorHeavy_Right.webp",
+        "alt": "Laika Body Armor Heavy Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_ArmorHeavy_Top",
+    "name": "Laika Heavy Armor Top",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "40.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_ArmorHeavy_Top_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_ArmorHeavy_Top_Item.webp",
+        "alt": "Laika Heavy Armor Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_ArmorLight_Left_ES",
+    "name": "Laika Body Armor Light Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorLight_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorLight_Left.webp",
+        "alt": "Laika Body Armor Light Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_ArmorLight_Right_ES",
+    "name": "Laika Body Armor Light Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorLight_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorLight_Right.webp",
+        "alt": "Laika Body Armor Light Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_ArmorLight_Top_ES",
+    "name": "Laika Body Armor Light Top",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "8.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorLight_Top.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BPC_Laika_Body_ArmorLight_Top.webp",
+        "alt": "Laika Body Armor Light Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_Front_ES",
+    "name": "Laika Body Front",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Front.webp",
+        "alt": "Laika Body Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_Left_ES",
+    "name": "Laika Body Left",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Left.webp",
+        "alt": "Laika Body Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_Right_ES",
+    "name": "Laika Body Right",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Right.webp",
+        "alt": "Laika Body Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Body_Top_ES",
+    "name": "Laika Body Top",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Top.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Body_Top.webp",
+        "alt": "Laika Body Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Bumper_Armor_Back",
+    "name": "Laika Bumper Armor Back",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Bumper_Armor_Back_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Bumper_Armor_Back_Item.webp",
+        "alt": "Laika Bumper Armor Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Bumper_Back",
+    "name": "Laika Bumper Back",
+    "part_type": "Bumper",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Bumper_Back_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Bumper_Back_Item.webp",
+        "alt": "Laika Bumper Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Bumper_Front",
+    "name": "Laika Bumper Front",
+    "part_type": "Bumper",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Bumper_Front_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Bumper_Front_Item.webp",
+        "alt": "Laika Bumper Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Door_ArmorHeavy_FrontLeft",
+    "name": "Laika Door Heavy Armor Front Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorHeavy_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorHeavy_FrontLeft_Item.webp",
+        "alt": "Laika Door Heavy Armor Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Door_ArmorHeavy_FrontRight",
+    "name": "Laika Door Heavy Armor Front Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorHeavy_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorHeavy_FrontRight_Item.webp",
+        "alt": "Laika Door Heavy Armor Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Door_ArmorLight_FrontLeft",
+    "name": "Laika Door Light Armor Front Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorLight_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorLight_FrontLeft_Item.webp",
+        "alt": " Laika Door Light Armor Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Door_ArmorLight_FrontRight",
+    "name": "Laika Door Light Armor Front Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorLight_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Door_ArmorLight_FrontRight_Item.webp",
+        "alt": "Laika Door Light Armor Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Door_Left",
+    "name": "Laika Door Left",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika_Door_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika_Door_Left.webp",
+        "alt": "Laika Door Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Door_Right",
+    "name": "Laika Door Right",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika_Door_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika_Door_Right.webp",
+        "alt": "Laika Door Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_DoorHood",
+    "name": "Laika Hood",
+    "part_type": "Body Part",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorHood_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorHood_Item.webp",
+        "alt": "Laika Hood"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_DoorTrunk",
+    "name": "Laika Trunk Door",
+    "part_type": "Body Part",
+    "weight_kg": "8.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorTrunk_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorTrunk_Item.webp",
+        "alt": "Laika Trunk Door"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_DoorTrunk_ArmorHeavy",
+    "name": "Laika Trunk Armor Heavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorTrunk_ArmorHeavy_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorTrunk_ArmorHeavy_Item.webp",
+        "alt": "Laika Trunk Armor Heavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_DoorTrunk_ArmorLight",
+    "name": "Laika Trunk Armor Light",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorTrunk_ArmorLight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_DoorTrunk_ArmorLight_Item.webp",
+        "alt": "Laika Trunk Armor Light"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Engine_Alternator",
+    "name": "Laika Alternator",
+    "part_type": "Mechanical",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Engine_Alternator_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Engine_Alternator_Item.webp",
+        "alt": "Laika Alternator"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Lights_FrontLeft_ES",
+    "name": "Laika_Lights_FrontLeft_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_FrontLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_FrontLeft.webp",
+        "alt": "Laika_Lights_FrontLeft_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Lights_FrontRight_ES",
+    "name": "Laika_Lights_FrontRight_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_FrontRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_FrontRight.webp",
+        "alt": "Laika_Lights_FrontRight_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Lights_RearLeft_ES",
+    "name": "Laika_Lights_RearLeft_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_BackLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_BackLeft.webp",
+        "alt": "Laika_Lights_RearLeft_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Lights_RearRight_ES",
+    "name": "Laika_Lights_RearRight_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_BackRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Light_BackRight.webp",
+        "alt": "Laika_Lights_RearRight_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Seat_FrontLeft",
+    "name": "Laika Seat Front Left",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Seat_BackLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Seat_BackLeft_Item.webp",
+        "alt": "Laika Seat Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Laika_Seat_FrontRight",
+    "name": "Laika Seat Front Right",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Seat_BackRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Laika_Seat_BackRight_Item.webp",
+        "alt": "Laika Seat Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Medium_Vehicle_StorageRack_ES",
+    "name": "Medium Vehicle Storage Rack",
+    "part_type": "Storage",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "256 slots",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      },
+      {
+        "name": "MotorboatBarba",
+        "slug": "Barba"
+      },
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      },
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      },
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/Storage/ICO_Medium_Vehicle_StorageRack.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/Storage/ICO_Medium_Vehicle_StorageRack.webp",
+        "alt": "Medium Vehicle Storage Rack"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Boats/MotorBoat_01/Icons/ICO_MotorBoat_01_A.webp",
+        "alt": "Motorboat"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorHeavy_Back",
+    "name": "Rager_Body_ArmorHeavy_Back",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "40.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Back_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Back_Item.webp",
+        "alt": "Rager_Body_ArmorHeavy_Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorHeavy_Left",
+    "name": "Rager_Body_ArmorHeavy_Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Left_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Left_Item.webp",
+        "alt": "Rager_Body_ArmorHeavy_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorHeavy_Right",
+    "name": "Rager_Body_ArmorHeavy_Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Right_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Right_Item.webp",
+        "alt": "Rager_Body_ArmorHeavy_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorHeavy_Top",
+    "name": "Rager_Body_ArmorHeavy_Top",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "40.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Top_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorHeavy_Top_Item.webp",
+        "alt": "Rager_Body_ArmorHeavy_Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorLight_Back",
+    "name": "Rager_Body_ArmorLight_Back",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "8.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Back_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Back_Item.webp",
+        "alt": "Rager_Body_ArmorLight_Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorLight_Left",
+    "name": "Rager_Body_ArmorLight_Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Left_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Left_Item.webp",
+        "alt": "Rager_Body_ArmorLight_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorLight_Right",
+    "name": "Rager_Body_ArmorLight_Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Right_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Right_Item.webp",
+        "alt": "Rager_Body_ArmorLight_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_ArmorLight_Top",
+    "name": "Rager_Body_ArmorLight_Top",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "8.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Top_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Body_ArmorLight_Top_Item.webp",
+        "alt": "Rager_Body_ArmorLight_Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_Front_ES",
+    "name": "Rager_Body_Front_ES",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Front.webp",
+        "alt": "Rager_Body_Front_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_Left_ES",
+    "name": "Rager_Body_Left_ES",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Left.webp",
+        "alt": "Rager_Body_Left_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_Right_ES",
+    "name": "Rager_Body_Right_ES",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Right.webp",
+        "alt": "Rager_Body_Right_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Body_Top_ES",
+    "name": "Rager_Body_Top_ES",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Top.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Body_Top.webp",
+        "alt": "Rager_Body_Top_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Bumper_Back",
+    "name": "Rager_Bumper_Back",
+    "part_type": "Bumper",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Bumper_Back.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Bumper_Back.webp",
+        "alt": "Rager_Bumper_Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Bumper_Front",
+    "name": "Rager_Bumper_Front",
+    "part_type": "Bumper",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Bumper_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Bumper_Front.webp",
+        "alt": "Rager_Bumper_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorHeavy_BackLeft",
+    "name": "Rager_Door_ArmorHeavy_BackLeft",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_BackLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_BackLeft_Item.webp",
+        "alt": "Rager_Door_ArmorHeavy_BackLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorHeavy_BackRight",
+    "name": "Rager_Door_ArmorHeavy_BackRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_BackRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_BackRight_Item.webp",
+        "alt": "Rager_Door_ArmorHeavy_BackRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorHeavy_FrontLeft",
+    "name": "Rager_Door_ArmorHeavy_FrontLeft",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_FrontLeft_Item.webp",
+        "alt": "Rager_Door_ArmorHeavy_FrontLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorHeavy_FrontRight",
+    "name": "Rager_Door_ArmorHeavy_FrontRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorHeavy_FrontRight_Item.webp",
+        "alt": "Rager_Door_ArmorHeavy_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorLight_BackLeft",
+    "name": "Rager_Door_ArmorLight_BackLeft",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_BackLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_BackLeft_Item.webp",
+        "alt": "Rager_Door_ArmorLight_BackLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorLight_BackRight",
+    "name": "Rager_Door_ArmorLight_BackRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_BackRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_BackRight_Item.webp",
+        "alt": "Rager_Door_ArmorLight_BackRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorLight_FrontLeft",
+    "name": "Rager_Door_ArmorLight_FrontLeft",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_FrontLeft_Item.webp",
+        "alt": "Rager_Door_ArmorLight_FrontLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_ArmorLight_FrontRight",
+    "name": "Rager_Door_ArmorLight_FrontRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Door_ArmorLight_FrontRight_Item.webp",
+        "alt": "Rager_Door_ArmorLight_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_BackLeft",
+    "name": "Rager_Door_BackLeft",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_BackLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_BackLeft.webp",
+        "alt": "Rager_Door_BackLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_BackRight",
+    "name": "Rager_Door_BackRight",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_BackRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_BackRight.webp",
+        "alt": "Rager_Door_BackRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_FrontLeft",
+    "name": "Rager_Door_FrontLeft",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_FrontLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_FrontLeft.webp",
+        "alt": "Rager_Door_FrontLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Door_FrontRight",
+    "name": "Rager_Door_FrontRight",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_FrontRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_FrontRight.webp",
+        "alt": "Rager_Door_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_DoorHood",
+    "name": "Rager_DoorHood",
+    "part_type": "Body Part",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_DoorHood.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_DoorHood.webp",
+        "alt": "Rager_DoorHood"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_DoorTrunk",
+    "name": "Rager_DoorTrunk",
+    "part_type": "Body Part",
+    "weight_kg": "8.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_Trunk.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Door_Trunk.webp",
+        "alt": "Rager_DoorTrunk"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_DoorTrunk_ArmorHeavy",
+    "name": "Rager_DoorTrunk_ArmorHeavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_DoorTrunk_ArmorHeavy_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_DoorTrunk_ArmorHeavy_Item.webp",
+        "alt": "Rager_DoorTrunk_ArmorHeavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_DoorTrunk_ArmorLight",
+    "name": "Rager_DoorTrunk_ArmorLight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_DoorTrunk_ArmorLight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_DoorTrunk_ArmorLight_Item.webp",
+        "alt": "Rager_DoorTrunk_ArmorLight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Engine_Alternator",
+    "name": "Rager_Engine_Alternator",
+    "part_type": "Mechanical",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Alternator.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Alternator.webp",
+        "alt": "Rager_Engine_Alternator"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Lights_FrontLeft_ES",
+    "name": "Rager_Lights_FrontLeft_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Lights_FrontLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Lights_FrontLeft.webp",
+        "alt": "Rager_Lights_FrontLeft_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Lights_FrontRight_ES",
+    "name": "Rager_Lights_FrontRight_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Lights_FrontRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Lights_FrontRight.webp",
+        "alt": "Rager_Lights_FrontRight_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Lights_RearLeft_ES",
+    "name": "Rager_Lights_RearLeft_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Light_BackLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Light_BackLeft.webp",
+        "alt": "Rager_Lights_RearLeft_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Lights_RearRight_ES",
+    "name": "Rager_Lights_RearRight_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Light_BackRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Light_BackRight.webp",
+        "alt": "Rager_Lights_RearRight_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Lights_RearTop_ES",
+    "name": "Rager_Lights_RearTop_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Light_RearTop.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Light_RearTop.webp",
+        "alt": "Rager_Lights_RearTop_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Seat_FrontLeft",
+    "name": "Rager_Seat_FrontLeft",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Seat_FrontLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Seat_FrontLeft.webp",
+        "alt": "Rager_Seat_FrontLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Seat_FrontRight",
+    "name": "Rager_Seat_FrontRight",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Seat_FrontRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager_Seat_FrontRight.webp",
+        "alt": "Rager_Seat_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Wheel_ArmorHeavy_FrontLeft",
+    "name": "Rager_Wheel_ArmorHeavy_FrontLeft",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorHeavy_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorHeavy_FrontLeft_Item.webp",
+        "alt": "Rager_Wheel_ArmorHeavy_FrontLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Wheel_ArmorHeavy_FrontRight",
+    "name": "Rager_Wheel_ArmorHeavy_FrontRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorHeavy_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorHeavy_FrontRight_Item.webp",
+        "alt": "Rager_Wheel_ArmorHeavy_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Wheel_ArmorLight_FrontLeft",
+    "name": "Rager_Wheel_ArmorLight_FrontLeft",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorLight_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorLight_FrontLeft_Item.webp",
+        "alt": "Rager_Wheel_ArmorLight_FrontLeft"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Rager_Wheel_ArmorLight_FrontRight",
+    "name": "Rager_Wheel_ArmorLight_FrontRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorLight_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Rager_Wheel_ArmorLight_FrontRight_Item.webp",
+        "alt": "Rager_Wheel_ArmorLight_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Armor_Military_Front",
+    "name": "RIS_Armor_Military_Front",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Armor_Military_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Armor_Military_Front.webp",
+        "alt": "RIS_Armor_Military_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Bars_Civilian_Back",
+    "name": "RIS_Bars_Civilian_Back",
+    "part_type": "Other",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Bars_Civilian_Back.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Bars_Civilian_Back.webp",
+        "alt": "RIS_Bars_Civilian_Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Bars_Civilian_Front",
+    "name": "RIS_Bars_Civilian_Front",
+    "part_type": "Other",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Bars_Civilian_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Bars_Civilian_Front.webp",
+        "alt": "RIS_Bars_Civilian_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Body_Civilian",
+    "name": "RIS_Body_Civilian",
+    "part_type": "Body Part",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Body_Civilian.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Body_Civilian.webp",
+        "alt": "RIS_Body_Civilian"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Body_Military",
+    "name": "RIS_Body_Military",
+    "part_type": "Body Part",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Body_Military.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Body_Military.webp",
+        "alt": "RIS_Body_Military"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_BrakeLight_Center",
+    "name": "RIS_BrakeLight_Center",
+    "part_type": "Light",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Back_Center.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Back_Center.webp",
+        "alt": "RIS_BrakeLight_Center"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_BrakeLight_Left",
+    "name": "RIS_BrakeLight_Left",
+    "part_type": "Light",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Back_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Back_Left.webp",
+        "alt": "RIS_BrakeLight_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_BrakeLight_Right",
+    "name": "RIS_BrakeLight_Right",
+    "part_type": "Light",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Back_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Back_Right.webp",
+        "alt": "RIS_BrakeLight_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Hand_Guards_Civilian",
+    "name": "RIS_Hand_Guards_Civilian",
+    "part_type": "Other",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_HandGuards_Civilian.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_HandGuards_Civilian.webp",
+        "alt": "RIS_Hand_Guards_Civilian"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Headlight_Left",
+    "name": "RIS_Headlight_Left",
+    "part_type": "Light",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Front_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Front_Left.webp",
+        "alt": "RIS_Headlight_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Headlight_Right",
+    "name": "RIS_Headlight_Right",
+    "part_type": "Light",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Front_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Civilian_Front_Right.webp",
+        "alt": "RIS_Headlight_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Light_Shades_Civilian",
+    "name": "RIS_Light_Shades_Civilian",
+    "part_type": "Light",
+    "weight_kg": "1.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Shades_Civilian.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Light_Shades_Civilian.webp",
+        "alt": "RIS_Light_Shades_Civilian"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Plow_Civilian_ES",
+    "name": "RIS_Plow_Civilian_ES",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "13.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Pusher_Civilian.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Pusher_Civilian.webp",
+        "alt": "RIS_Plow_Civilian_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Spikes_Military_ES",
+    "name": "RIS_Spikes_Military_ES",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Spikes_Military.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Spikes_Military.webp",
+        "alt": "RIS_Spikes_Military_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "RIS_Wheel_Armor",
+    "name": "RIS_Wheel_Armor",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Wheel_Armor.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS_Wheel_Armor.webp",
+        "alt": "RIS_Wheel_Armor"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Brakelight",
+    "name": "SidecarBike_Brakelight",
+    "part_type": "Light",
+    "weight_kg": "1.30 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Brakelight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Brakelight.webp",
+        "alt": "SidecarBike_Brakelight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Engine",
+    "name": "Sidecar Bike Engine",
+    "part_type": "Mechanical",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SportBike_Body_Street.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SportBike_Body_Street.webp",
+        "alt": "Sidecar Bike Engine"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Fender_Front",
+    "name": "SidecarBike_Fender_Front",
+    "part_type": "Body Part",
+    "weight_kg": "4.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Fender_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Fender_Front.webp",
+        "alt": "SidecarBike_Fender_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Fender_Rear",
+    "name": "SidecarBike_Fender_Rear",
+    "part_type": "Body Part",
+    "weight_kg": "3.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Fender_Rear.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Fender_Rear.webp",
+        "alt": "SidecarBike_Fender_Rear"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Fender_Sidecar",
+    "name": "SidecarBike_Fender_Sidecar",
+    "part_type": "Body Part",
+    "weight_kg": "3.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Fender_Sidecar.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Fender_Sidecar.webp",
+        "alt": "SidecarBike_Fender_Sidecar"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Headlight",
+    "name": "SidecarBike_Headlight",
+    "part_type": "Light",
+    "weight_kg": "0.75 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Headlight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Headlight.webp",
+        "alt": "SidecarBike_Headlight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Seat_Back",
+    "name": "SidecarBike_Seat_Back",
+    "part_type": "Seat",
+    "weight_kg": "3.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Seat_Back.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Seat_Back.webp",
+        "alt": "SidecarBike_Seat_Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Seat_Front",
+    "name": "SidecarBike_Seat_Front",
+    "part_type": "Seat",
+    "weight_kg": "2.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Seat_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Seat_Front.webp",
+        "alt": "SidecarBike_Seat_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Sidecar_Brakelight",
+    "name": "SidecarBike_Sidecar_Brakelight",
+    "part_type": "Light",
+    "weight_kg": "0.70 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Sidecar_Brakelight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Sidecar_Brakelight.webp",
+        "alt": "SidecarBike_Sidecar_Brakelight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Sidecar_Headlight",
+    "name": "SidecarBike_Sidecar_Headlight",
+    "part_type": "Light",
+    "weight_kg": "0.80 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Sidecar_Headlight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Sidecar_Headlight.webp",
+        "alt": "SidecarBike_Sidecar_Headlight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Sidecar_WeaponStation",
+    "name": "SidecarBike_Sidecar_WeaponStation",
+    "part_type": "Other",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Sidecar_Weapon_Station.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Sidecar_Weapon_Station.webp",
+        "alt": "SidecarBike_Sidecar_WeaponStation"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Spikes",
+    "name": "SidecarBike_Spikes",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Spikes.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Spikes.webp",
+        "alt": "SidecarBike_Spikes"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "SidecarBike_Wheel_4x16",
+    "name": "SidecarBike_Wheel_4x16",
+    "part_type": "Wheel",
+    "weight_kg": "6.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Wheel.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_SidecarBike_Wheel.webp",
+        "alt": "SidecarBike_Wheel_4x16"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      }
+    ]
+  },
+  {
+    "slug": "Small_Vehicle_StorageRack_ES",
+    "name": "Small Vehicle Storage Rack",
+    "part_type": "Storage",
+    "weight_kg": "2.50 kg",
+    "storage_slots": "64 slots",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "City BikeCityBike",
+        "slug": "CityBike"
+      },
+      {
+        "name": "Cruiser",
+        "slug": "Cruiser"
+      },
+      {
+        "name": "Dirtbike",
+        "slug": "Dirtbike"
+      },
+      {
+        "name": "Mountain BikeMountainBike",
+        "slug": "MountainBike"
+      },
+      {
+        "name": "SUP",
+        "slug": "SUP"
+      },
+      {
+        "name": "SidecarBike",
+        "slug": "SidecarBike"
+      },
+      {
+        "name": "Small RaftSmallRaft",
+        "slug": "SmallRaft"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/Storage/ICO_Small_Vehicle_StorageRack.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/Storage/ICO_Small_Vehicle_StorageRack.webp",
+        "alt": "Small Vehicle Storage Rack"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Bikes/Bicycle_01/Icons/ICO_Bicycle_01_A.webp",
+        "alt": "City Bike"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Cruiser.webp",
+        "alt": "Cruiser"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Motorcycle_01_A.webp",
+        "alt": "Dirtbike"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Bicycle_02_A.webp",
+        "alt": "Mountain Bike"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/SUP/Textures/Icons/ICO_SUP_Vicinity.webp",
+        "alt": "SUP"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_SidecarBike.webp",
+        "alt": "SidecarBike"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_ImproSmallRaft.webp",
+        "alt": "Small Raft"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Left",
+    "name": "Tractor_Body_Left",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Body_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Body_Left.webp",
+        "alt": "Tractor_Body_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Left_ArmorHeavy",
+    "name": "Tractor_Body_Left_ArmorHeavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Armor_BackLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Armor_BackLeft.webp",
+        "alt": "Tractor_Body_Left_ArmorHeavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Left_Brakelight",
+    "name": "Tractor_Body_Left_Brakelight",
+    "part_type": "Body Part",
+    "weight_kg": "1.20 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Brakelight_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Brakelight_Left.webp",
+        "alt": "Tractor_Body_Left_Brakelight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Right",
+    "name": "Tractor_Body_Right",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Body_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Body_Right.webp",
+        "alt": "Tractor_Body_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Right_ArmorHeavy",
+    "name": "Tractor_Body_Right_ArmorHeavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Armor_BackRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Armor_BackRight.webp",
+        "alt": "Tractor_Body_Right_ArmorHeavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Right_Brakelight",
+    "name": "Tractor_Body_Right_Brakelight",
+    "part_type": "Body Part",
+    "weight_kg": "1.20 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Brakelight_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Brakelight_Right.webp",
+        "alt": "Tractor_Body_Right_Brakelight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Top_ArmorHeavy_Back",
+    "name": "Tractor_Body_Top_ArmorHeavy_Back",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Back.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Back.webp",
+        "alt": "Tractor_Body_Top_ArmorHeavy_Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Top_ArmorHeavy_Front",
+    "name": "Tractor_Body_Top_ArmorHeavy_Front",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Front.webp",
+        "alt": "Tractor_Body_Top_ArmorHeavy_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Top_ArmorHeavy_Left",
+    "name": "Tractor_Body_Top_ArmorHeavy_Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Left.webp",
+        "alt": "Tractor_Body_Top_ArmorHeavy_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Top_ArmorHeavy_Right",
+    "name": "Tractor_Body_Top_ArmorHeavy_Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Body_Armor_Right.webp",
+        "alt": "Tractor_Body_Top_ArmorHeavy_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Top_Door_Left",
+    "name": "Tractor_Body_Top_Door_Left",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Door_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Door_Left.webp",
+        "alt": "Tractor_Body_Top_Door_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Body_Top_Door_Right",
+    "name": "Tractor_Body_Top_Door_Right",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Door_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Door_Right.webp",
+        "alt": "Tractor_Body_Top_Door_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Door_Hood",
+    "name": "Tractor_Door_Hood",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Door_Hood.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Door_Hood.webp",
+        "alt": "Tractor_Door_Hood"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Door_Hood_Headlight_Left",
+    "name": "Tractor_Door_Hood_Headlight_Left",
+    "part_type": "Body Part",
+    "weight_kg": "2.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Headlight_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Headlight_Left.webp",
+        "alt": "Tractor_Door_Hood_Headlight_Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Door_Hood_Headlight_Right",
+    "name": "Tractor_Door_Hood_Headlight_Right",
+    "part_type": "Body Part",
+    "weight_kg": "2.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Headlight_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Tractor_Headlight_Right.webp",
+        "alt": "Tractor_Door_Hood_Headlight_Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Door_Left_ArmorHeavy",
+    "name": "Tractor_Door_Left_ArmorHeavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Door_Armor_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Door_Armor_Left.webp",
+        "alt": "Tractor_Door_Left_ArmorHeavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Door_Right_ArmorHeavy",
+    "name": "Tractor_Door_Right_ArmorHeavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Door_Armor_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Door_Armor_Right.webp",
+        "alt": "Tractor_Door_Right_ArmorHeavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Engine_Alternator",
+    "name": "Tractor_Engine_Alternator",
+    "part_type": "Mechanical",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Alternator_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Alternator_Item.webp",
+        "alt": "Tractor_Engine_Alternator"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_Seat_Driver",
+    "name": "Tractor_Seat_Driver",
+    "part_type": "Seat",
+    "weight_kg": "12.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Seat.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Seat.webp",
+        "alt": "Tractor_Seat_Driver"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Tractor_WheelArmorHeavy_Front",
+    "name": "Tractor_WheelArmorHeavy_Front",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Armor_FrontLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Armor_FrontLeft.webp",
+        "alt": "Tractor_WheelArmorHeavy_Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "Wheel_155_R65",
+    "name": "Wheel 205 55 R16",
+    "part_type": "Wheel",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Wheel_155_R65_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_Wheel_155_R65_Item.webp",
+        "alt": "Wheel 205 55 R16"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "Wheel_205_80_R12",
+    "name": "Wheel_205_80_R12",
+    "part_type": "Wheel",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "RIS",
+        "slug": "RIS"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Wheel_205_80_R12.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Wheel_205_80_R12.webp",
+        "alt": "Wheel_205_80_R12"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_RIS.webp",
+        "alt": "RIS"
+      }
+    ]
+  },
+  {
+    "slug": "Wheel_255_55_R16",
+    "name": "Wheel 215 65 R16",
+    "part_type": "Wheel",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Laika",
+        "slug": "Laika"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Wheel_255_55_R16.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Wheel_255_55_R16.webp",
+        "alt": "Wheel 215 65 R16"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Laika.webp",
+        "alt": "Laika"
+      }
+    ]
+  },
+  {
+    "slug": "Wheel_265_60_R18",
+    "name": "Wheel_265_60_R18",
+    "part_type": "Wheel",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Rager",
+        "slug": "Rager"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Wheel_265_60_R18.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Wheel_265_60_R18.webp",
+        "alt": "Wheel_265_60_R18"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_Rager.webp",
+        "alt": "Rager"
+      }
+    ]
+  },
+  {
+    "slug": "Wheel_6x16",
+    "name": "Wheel_6x16",
+    "part_type": "Wheel",
+    "weight_kg": "3.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "Tractor",
+        "slug": "Tractor"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_Tractor_Wheel_Front.webp",
+        "alt": "Wheel_6x16"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Models/Vehicles/Tractors/Tractor_01/Icons/ICO_Tractor_01_A.webp",
+        "alt": "Tractor"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Body_ArmorHeavy_Top",
+    "name": "WW Heavy Armor Top",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "40.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_ArmorHeavy_Top_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_ArmorHeavy_Top_Item.webp",
+        "alt": "WW Heavy Armor Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Body_Back_ES",
+    "name": "WW Body Back",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Back.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Back.webp",
+        "alt": "WW Body Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Body_Front_ES",
+    "name": "WW Body Front",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Front.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Front.webp",
+        "alt": "WW Body Front"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Body_Left_ES",
+    "name": "WW Body Left",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Left.webp",
+        "alt": "WW Body Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Body_Right_ES",
+    "name": "WW Body Right",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Right.webp",
+        "alt": "WW Body Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Body_Top_ES",
+    "name": "WW Body Top",
+    "part_type": "Body Part",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Top.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Body_Top.webp",
+        "alt": "WW Body Top"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Bumper_Armor_Back",
+    "name": "WW Bumper Armor Back",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "25.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Bumper_Armor_Back_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Bumper_Armor_Back_Item.webp",
+        "alt": "WW Bumper Armor Back"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Bumper_Back",
+    "name": "WW Back Bumper",
+    "part_type": "Bumper",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Bumper_Back_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Bumper_Back_Item.webp",
+        "alt": "WW Back Bumper"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Bumper_Front",
+    "name": "WW Front Bumper",
+    "part_type": "Bumper",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Bumper_Front_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Bumper_Front_Item.webp",
+        "alt": "WW Front Bumper"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorHeavy_BackLeft",
+    "name": "WW Door Armor Heavy Back Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_BackLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_BackLeft_Item.webp",
+        "alt": "WW Door Armor Heavy Back Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorHeavy_BackRight",
+    "name": "WW Door Armor Heavy Back Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_BackRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_BackRight_Item.webp",
+        "alt": "WW Door Armor Heavy Back Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorHeavy_FrontLeft",
+    "name": "WW Door Armor Heavy Front Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_FrontLeft_Item.webp",
+        "alt": "WW Door Armor Heavy Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorHeavy_FrontRight",
+    "name": "WW Door Armor Heavy Front Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "30.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorHeavy_FrontRight_Item.webp",
+        "alt": "WW Door Armor Heavy Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorLight_BackLeft",
+    "name": "WW Door Armor Light Back Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_BackLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_BackLeft_Item.webp",
+        "alt": "WW Door Armor Light Back Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorLight_BackRight",
+    "name": "WW Door Armor Light Back Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_BackRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_BackRight_Item.webp",
+        "alt": "WW Door Armor Light Back Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorLight_FrontLeft",
+    "name": "WW Door Armor Light Front Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_FrontLeft_Item.webp",
+        "alt": "WW Door Armor Light Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_ArmorLight_FrontRight",
+    "name": "WW_Door_ArmorLight_FrontRight",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Door_ArmorLight_FrontRight_Item.webp",
+        "alt": "WW_Door_ArmorLight_FrontRight"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_BackLeft",
+    "name": "WW Door Back Left",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Back_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Back_Left.webp",
+        "alt": "WW Door Back Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_BackRight",
+    "name": "WW Door Back Right",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Back_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Back_Right.webp",
+        "alt": "WW Door Back Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_FrontLeft",
+    "name": "WW Door Front Left",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Front_Left.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Front_Left.webp",
+        "alt": "WW Door Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Door_FrontRight",
+    "name": "WW Door Front Right",
+    "part_type": "Body Part",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Front_Right.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WW_Door_Front_Right.webp",
+        "alt": "WW Door Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_DoorHood",
+    "name": "WW Hood",
+    "part_type": "Body Part",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorHood_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorHood_Item.webp",
+        "alt": "WW Hood"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_DoorTrunk",
+    "name": "WW Trunk",
+    "part_type": "Body Part",
+    "weight_kg": "8.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorTrunk_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorTrunk_Item.webp",
+        "alt": "WW Trunk"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_DoorTrunk_ArmorHeavy",
+    "name": "WW Trunk Armor Heavy",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "20.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorTrunk_ArmorHeavy_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorTrunk_ArmorHeavy_Item.webp",
+        "alt": "WW Trunk Armor Heavy"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_DoorTrunk_ArmorLight",
+    "name": "WW Trunk Armor Light",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorTrunk_ArmorLight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_DoorTrunk_ArmorLight_Item.webp",
+        "alt": "WW Trunk Armor Light"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Engine_Alternator",
+    "name": "WW Alternator",
+    "part_type": "Mechanical",
+    "weight_kg": "5.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Engine_Alternator_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Engine_Alternator_Item.webp",
+        "alt": "WW Alternator"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Lights_FrontLeft_ES",
+    "name": "WW_Lights_FrontLeft_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_FrontLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_FrontLeft.webp",
+        "alt": "WW_Lights_FrontLeft_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Lights_FrontRight_ES",
+    "name": "WW_Lights_FrontRight_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_FrontRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_FrontRight.webp",
+        "alt": "WW_Lights_FrontRight_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Lights_RearLeft_ES",
+    "name": "WW_Lights_RearLeft_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_BackLeft.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_BackLeft.webp",
+        "alt": "WW_Lights_RearLeft_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Lights_RearRight_ES",
+    "name": "WW_Lights_RearRight_ES",
+    "part_type": "Light",
+    "weight_kg": "1.50 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_BackRight.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Light_BackRight.webp",
+        "alt": "WW_Lights_RearRight_ES"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Seat_BackLeft",
+    "name": "WW Seat Back Left",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_BackLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_BackLeft_Item.webp",
+        "alt": "WW Seat Back Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Seat_BackRight",
+    "name": "WW Seat Back Right",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_FrontLeft_Item.webp",
+        "alt": "WW Seat Back Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Seat_FrontLeft",
+    "name": "WW Seat Front Left",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_FrontLeft_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_FrontLeft_Item.webp",
+        "alt": "WW Seat Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Seat_FrontRight",
+    "name": "WW Seat Front Right",
+    "part_type": "Seat",
+    "weight_kg": "15.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_FrontRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WolfsWagen_Seat_FrontRight_Item.webp",
+        "alt": "WW Seat Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Wheel_ArmorLight_FrontLeft",
+    "name": "WW Wheel Armor Front Left",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Wheel_ArmorLight_FrontLeftRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Wheel_ArmorLight_FrontLeftRight_Item.webp",
+        "alt": "WW Wheel Armor Front Left"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  },
+  {
+    "slug": "WW_Wheel_ArmorLight_FrontRight",
+    "name": "WW Wheel Armor Front Right",
+    "part_type": "Vehicle Armor",
+    "weight_kg": "10.00 kg",
+    "storage_slots": "",
+    "weight_capacity": "",
+    "compatible_vehicles": [
+      {
+        "name": "WolfsWagen",
+        "slug": "WolfsWagen"
+      }
+    ],
+    "date_added": "Feb 27, 2026",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Wheel_ArmorLight_FrontLeftRight_Item.webp",
+    "images": [
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/VehicleAttachments/ICO_BP_WW_Wheel_ArmorLight_FrontLeftRight_Item.webp",
+        "alt": "WW Wheel Armor Front Right"
+      },
+      {
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/Items/Item_Icons/ICO_WolfsWagen.webp",
+        "alt": "WolfsWagen"
+      }
+    ]
+  }
+]

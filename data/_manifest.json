@@ -1,0 +1,25 @@
+[
+  {
+    "generated": "2026-03-14T23:12:25.692222",
+    "description": "SCUM game database — scraped from scum-db.com",
+    "image_base": "textures/",
+    "files": {
+      "weapons": "weapons.json",
+      "clothing": "clothing.json",
+      "ammunition": "ammunition.json",
+      "vehicles": "vehicles.json",
+      "vehicle_parts": "vehicle_parts.json",
+      "recipes": "recipes.json",
+      "buildables": "buildables.json",
+      "items": "items.json",
+      "relationships": "relationships.json"
+    },
+    "notes": [
+      "image field contains relative path from scum-db-offline/ root",
+      "e.g. textures/hash/abc123.webp",
+      "images array contains all images for item including variants",
+      "slug is the unique identifier linking items across files",
+      "relationships.json maps every cross-reference between items"
+    ]
+  }
+]
