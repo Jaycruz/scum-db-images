@@ -5250,18 +5250,6 @@
       {
         "name": "Weapon Parts M1887 Sawed off",
         "slug": "Weapon_Parts_M1887_Sawed_off"
-      },
-      {
-        "name": "12 Gauge Birdshot CartridgeCAL: 12 GaugeDMG: 100830 m/s",
-        "slug": "12_Gauge_BirdShot"
-      },
-      {
-        "name": "12 Gauge Birdshot CartridgeCAL: 12 Gauge",
-        "slug": "12_Gauge_Birdshot"
-      },
-      {
-        "name": "12 Gauge Buckshot CartridgeCAL: 12 GaugeDMG: 100830 m/s",
-        "slug": "12_Gauge_Buckshot"
       }
     ],
     "magazines": [],
@@ -9864,10 +9852,10 @@
     ],
     "variants": [],
     "date_added": "Feb 27, 2026",
-    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/a9ac17ff630f09a9271f8b54c93fd19b.png",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/a9ac17ff630f09a9271f8b54c93fd19b.webp",
     "images": [
       {
-        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/a9ac17ff630f09a9271f8b54c93fd19b.png",
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/a9ac17ff630f09a9271f8b54c93fd19b.webp",
         "alt": "UMP-45"
       }
     ]
@@ -10003,10 +9991,10 @@
     ],
     "variants": [],
     "date_added": "Feb 27, 2026",
-    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/9415ec5de94eff691780a2d4d6759b63.png",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/9415ec5de94eff691780a2d4d6759b63.webp",
     "images": [
       {
-        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/9415ec5de94eff691780a2d4d6759b63.png",
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/9415ec5de94eff691780a2d4d6759b63.webp",
         "alt": "M249"
       }
     ]
@@ -10121,10 +10109,10 @@
     ],
     "variants": [],
     "date_added": "Feb 27, 2026",
-    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/eb2be06b87104e866ef8f907070b0aaf.png",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/eb2be06b87104e866ef8f907070b0aaf.webp",
     "images": [
       {
-        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/eb2be06b87104e866ef8f907070b0aaf.png",
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/eb2be06b87104e866ef8f907070b0aaf.webp",
         "alt": "MAC-10"
       }
     ]
@@ -10234,10 +10222,10 @@
     ],
     "variants": [],
     "date_added": "Feb 27, 2026",
-    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/428f1174ee3818ba3eda0d381307b62e.png",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/428f1174ee3818ba3eda0d381307b62e.webp",
     "images": [
       {
-        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/428f1174ee3818ba3eda0d381307b62e.png",
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/428f1174ee3818ba3eda0d381307b62e.webp",
         "alt": "MP5"
       }
     ]
@@ -10342,10 +10330,10 @@
     ],
     "variants": [],
     "date_added": "Feb 27, 2026",
-    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/259549d4a1c4657158304f3a1d9de578.png",
+    "image": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/259549d4a1c4657158304f3a1d9de578.webp",
     "images": [
       {
-        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/259549d4a1c4657158304f3a1d9de578.png",
+        "path": "https://raw.githubusercontent.com/Jaycruz/scum-db-images/main/hash/259549d4a1c4657158304f3a1d9de578.webp",
         "alt": "Tommy Gun"
       }
     ]
